@@ -1,4 +1,4 @@
-# Data-Science-with-Python
+# Data Science with Python
 Examine a third-party credit rating authority's customer demographics to determine credit offered.
 
 Data Science framework report: <a href="https://github.com/GSJv2-1/Data-Science-with-Python/blob/main/C2T1_GJ/Grant_J_C2T1.pptx">Framework Report</a>
